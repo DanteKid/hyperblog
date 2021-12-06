@@ -49,12 +49,15 @@ body
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #post
 {
     background: white;
     padding: 1em;
 }
 =======
+=======
+>>>>>>> footer
 #footer
 {
 	background: #777;
@@ -63,4 +66,7 @@ body
 	padding: 0.5em
 
 }
+<<<<<<< HEAD
+>>>>>>> footer
+=======
 >>>>>>> footer
